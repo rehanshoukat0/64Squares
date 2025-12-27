@@ -3,14 +3,13 @@
 
 64 Squares is a chess-themed web project created to present chess as more than just a game — as a blend of history, strategy, learning, and competition. The website provides users with an interactive and visually engaging experience where they can explore the origins of chess, learn about legendary world champions, understand the greatest players of all time. Built using HTML, CSS, and JavaScript, the project focuses on premium design, smooth animations, and user-friendly navigation while remaining educational and beginner-friendly.
 
- # Project Objectives
-
-- To create a complete chess-themed website
-- To combine educational content with interactivity
-- To design a modern, premium user interface
-- To implement a playable chess game using JavaScript
-- To showcase front-end web development skills
-
+ ## Features & Learning
+- Multi-page website using HTML
+- Styling and layout using CSS for aesthetics
+- Basic interactivity using JavaScript
+- Project organization and structure
+- Using Git & GitHub for version control
+  
 # Technologies Used
 
 - HTML5 - Structure and content of web pages
@@ -18,7 +17,7 @@
 - JavaScript - Interactivity and chess game logic
 - Markdown - Documentation
 
-# Development Steps (What Was Done)
+# Development Steps
 
 
 # Step 1: Website Layout & Navigation
@@ -104,3 +103,4 @@ Created a separate premium design for GOATs
 - ♟ PU Pioneers League 2025 – Participant
 
 - 📈 Chess Rating: 1350
+
