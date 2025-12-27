@@ -1,5 +1,5 @@
 # ♟ 64 Squares – Chess Website Project
-  ## Project Description
+  # Project Description
 
 64 Squares is a chess-themed web project created to present chess as more than just a game — as a blend of history, strategy, learning, and competition. The website provides users with an interactive and visually engaging experience where they can explore the origins of chess, learn about legendary world champions, understand the greatest players of all time. Built using HTML, CSS, and JavaScript, the project focuses on premium design, smooth animations, and user-friendly navigation while remaining educational and beginner-friendly.
 
@@ -102,4 +102,5 @@ Created a separate premium design for GOATs
 ## Achievements:
 - 🏆 FCIT Winter League 2025 – Winner (Chess)
 - ♟ PU Pioneers League 2025 – Participant
+
 - 📈 Chess Rating: 1350
