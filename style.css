@@ -27,7 +27,7 @@ body {
   z-index: 1000;
 }
 
-/* Logo */
+
 .logo {
   font-size: 26px;
   font-weight: bold;
@@ -35,14 +35,14 @@ body {
   letter-spacing: 1px;
 }
 
-/* Nav links */
+
 .nav-links {
   list-style: none;
   display: flex;
   gap: 25px;
 }
 
-/* Links style */
+
 .nav-links li a {
   text-decoration: none;
   color: #e0f7fa;
@@ -59,7 +59,7 @@ body {
   box-shadow: 0 0 15px rgba(249, 212, 35, 0.6);
 }
 
-/* Active page */
+
 .nav-links li a.active {
   background: #f9d423;
   color: #1b1b1b;
@@ -72,7 +72,7 @@ body {
   gap: 15px;
   max-width: 100%;
 }
-/* NAVBAR BASE */
+
 .navbar {
   position: sticky;
   top: 0;
@@ -1083,3 +1083,4 @@ footer {
             0 0 20px rgba(237, 58, 177, 0.6);
     }
 }
+
